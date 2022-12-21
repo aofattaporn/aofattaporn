@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<div>
-<h1>
-  Hello everyone!!
-<h1/>
+Hello everyone!!
 
 My name is Aof, I study in the Applied Computer science Department at King Mongkut University Technology of Thonburi. 
 
