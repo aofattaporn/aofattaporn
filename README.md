@@ -3,7 +3,22 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+<style> 
+  div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }
 
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+</style>
+
+<div>
 <h1>
   hello
 <h1/>
