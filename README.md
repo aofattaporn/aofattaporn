@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Attaporn</h1>
-<h3 align="center">My name is Aof, I study in the Applied Computer science Department at King Mongkut University Technology of Thonburi. and I'm one people who like coding or learning anything about new technology</h3>
+<p align="center">My name is Aof, I study in the Applied Computer science Department at King Mongkut University Technology of Thonburi. and I'm one people who like coding or learning anything about new technology</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
